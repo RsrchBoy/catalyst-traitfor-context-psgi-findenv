@@ -1,3 +1,6 @@
 Revision history for Catalyst-TraitFor-Context-PSGI-FindEnv
 
 {{$NEXT}}
+
+0.001     2012-10-31 12:10:40 PST8PDT
+	* first public release

@@ -17,6 +17,9 @@ This document describes version 0.001 of Catalyst::TraitFor::Context::PSGI::Find
 This is a L<Catalyst> context trait that aids in finding a PSGI
 environment, if one is available, even in a 5.8x environment.
 
+Note the key part about "if one is available" :)  This is not always the case
+under 5.8x.
+
 =head1 METHODS
 
 =head2 psgi_env
